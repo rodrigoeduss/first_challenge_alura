@@ -85,7 +85,7 @@ Não era obrigatório deixar o layout idêntico. Tivemos a liberdade para modifi
 
 
 
-## Ajustes e melhorias
+## Responsividade
 
 Também não era obrigatório deixar o layout responsivo, mas como estou em fase de aprendizagem, aproveitei para testar os conhecimentos adquiridos até aqui.
 
